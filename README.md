@@ -1,4 +1,7 @@
 # my-best-practice-notes
+this repository reflects my own thoughts, what i think its better in terms of expressiveness and readability.
+its good to think of how code looks like, its good
+write code that you can read, and  close to math notation.
 ## Java
 
 1. dont create static method 'of' instead name it with the name of the class
